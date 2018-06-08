@@ -1,0 +1,5 @@
+consumer_key = "jABYVpQNx1ts3v8gUg8aBFm2P"
+consumer_secret = "ZsOT0cjXIo2moDrQpWs7mSFBvqsOKI2222adwskCjlKPgyzqKs"
+access_token = "23522313-BCfogmVx0KLlXCd9rrfyxCcrpRy30YjS47GD3xvne"
+access_token_secret = "8ydkLf4m6YFPbOGNIMzYUg4id04kgBUaOhqiaJAZil4LJ"
+api_key = "25bc90a1196e6f153eece0bc0b0fc9eb"
